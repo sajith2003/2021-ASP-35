@@ -1,0 +1,77 @@
+Antibiotic,Resistant,Susceptible,Intermediate,Nonsusceptible,Total,RS_Total,Resistance_Percentage
+penicillin,26,0,0,0,26,26,100
+polymyxin_e,71,0,100,0,171,71,100
+polymyxin b,58,0,151,0,209,58,100
+lincomycin,36,0,0,0,36,36,100
+carbenicillin,26,0,0,0,26,26,100
+rifampin,25,0,0,0,25,25,100
+beta-lactam,3,0,0,0,3,3,100
+teicoplanin,1,0,0,0,1,1,100
+neomycin,1,0,0,0,1,1,100
+sulbactam,1,0,0,0,1,1,100
+clindamycin,1,0,0,0,1,1,100
+daptomycin,1,0,0,0,1,1,100
+linezolid,1,0,0,0,1,1,100
+vancomycin,1,0,0,0,1,1,100
+cefalexin,1,0,0,0,1,1,100
+sulfisoxazole,210,18,0,0,228,228,92.11
+oxytetracycline,30,4,0,0,34,34,88.24
+cefazolin,264,43,27,0,334,307,85.99
+naladixic_acid,6,1,0,0,7,7,85.71
+levofloxacin,273,63,18,0,354,336,81.25
+kanamycin,149,42,1,0,192,191,78.01
+doxycycline,169,49,87,0,305,218,77.52
+streptomycin,271,108,23,0,402,379,71.5
+tetracycline,415,170,4,0,589,585,70.94
+cefpodoxime_clavulanic_acid,33,14,12,0,59,47,70.21
+ampicillin/sulbactam,174,82,60,0,316,256,67.97
+ticarcillin/clavulanic acid,2,1,3,0,6,3,66.67
+cephalothin,105,59,0,0,164,164,64.02
+cefpodoxime,38,22,0,0,60,60,63.33
+amoxicillin,357,252,27,0,636,609,58.62
+ampicillin,1492,1084,5,0,2581,2576,57.92
+amoxycillin_clavulanic_acid,67,50,55,0,172,117,57.26
+piperacillin,5,4,0,0,9,9,55.56
+sulfamethoxazole/trimethoprim,21,17,4,0,42,38,55.26
+chloramphenicol,285,254,15,0,554,539,52.88
+cefotaxime/clavulanic acid,108,97,0,0,205,205,52.68
+apramycin,2,2,12,0,16,4,50
+moxifloxacin,9,9,1,0,19,18,50
+sulfamethoxazole,64,65,0,0,129,129,49.61
+trimethoprim,222,242,1,0,465,464,47.84
+nalidixic acid,280,363,13,0,656,643,43.55
+ceftiofur,27,37,0,0,64,64,42.19
+ceftriaxone,171,237,1,0,409,408,41.91
+erythromycin,27,38,0,0,65,65,41.54
+trimethoprim/sulfamethoxazole,656,983,24,0,1663,1639,40.02
+ofloxacin,3,5,0,0,8,8,37.5
+aztreonam,200,389,23,0,612,589,33.96
+amoxicillin/clavulanic acid,498,1045,30,0,1573,1543,32.27
+ciprofloxacin,929,2355,52,0,3336,3284,28.29
+ceftazidime/clavulanic acid,51,135,0,0,186,186,27.42
+cefoxitin,153,430,48,0,631,583,26.24
+cefepime,170,483,65,0,718,653,26.03
+cefotaxime,622,1874,30,0,2526,2496,24.92
+ertapenem,89,284,3,0,376,373,23.86
+doripenem,15,53,10,0,78,68,22.06
+colistin,28,101,43,0,172,129,21.71
+norfloxacin,26,111,5,0,142,137,18.98
+tobramycin,114,507,21,0,642,621,18.36
+cefalotin,17,77,48,0,142,94,18.09
+ceftazidime,421,2239,120,0,2780,2660,15.83
+cefuroxime,257,1450,2,0,1709,1707,15.06
+gentamicin,406,2344,66,0,2816,2750,14.76
+minocycline,20,189,39,0,248,209,9.57
+piperacillin/tazobactam,192,2104,74,0,2370,2296,8.36
+azithromycin,16,199,0,0,215,215,7.44
+nitrofurantoin,15,220,11,0,246,235,6.38
+imipenem,52,769,18,0,839,821,6.33
+cefotetan,2,41,1,0,44,43,4.65
+amikacin,43,1016,35,0,1094,1059,4.06
+ceftazidime/avibactam,1,56,0,0,57,57,1.75
+meropenem,38,2330,13,0,2381,2368,1.6
+tigecycline,3,1556,6,0,1565,1559,0.19
+fosfomycin,0,51,1,0,52,51,0
+temocillin,0,11,0,0,11,11,0
+tigecyline,0,11,0,0,11,11,0
+ceftolozane/tazobactam,0,1,0,0,1,1,0

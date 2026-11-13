@@ -1,0 +1,16 @@
+Antibiotic,Resistant,Susceptible,Intermediate,Nonsusceptible,Total,RS_Total,Resistance_Percentage
+ciprofloxacin,929,2355,52,0,3336,3284,28.29
+gentamicin,406,2344,66,0,2816,2750,14.76
+ceftazidime,421,2239,120,0,2780,2660,15.83
+ampicillin,1492,1084,5,0,2581,2576,57.92
+cefotaxime,622,1874,30,0,2526,2496,24.92
+meropenem,38,2330,13,0,2381,2368,1.6
+piperacillin/tazobactam,192,2104,74,0,2370,2296,8.36
+cefuroxime,257,1450,2,0,1709,1707,15.06
+trimethoprim/sulfamethoxazole,656,983,24,0,1663,1639,40.02
+amoxicillin/clavulanic acid,498,1045,30,0,1573,1543,32.27
+tigecycline,3,1556,6,0,1565,1559,0.19
+amikacin,43,1016,35,0,1094,1059,4.06
+imipenem,52,769,18,0,839,821,6.33
+cefepime,170,483,65,0,718,653,26.03
+nalidixic acid,280,363,13,0,656,643,43.55
