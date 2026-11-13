@@ -1,0 +1,77 @@
+Antibiotic,Records
+ciprofloxacin,3336
+gentamicin,2816
+ceftazidime,2780
+ampicillin,2581
+cefotaxime,2526
+meropenem,2381
+piperacillin/tazobactam,2370
+cefuroxime,1709
+trimethoprim/sulfamethoxazole,1663
+amoxicillin/clavulanic acid,1573
+tigecycline,1565
+amikacin,1094
+imipenem,839
+cefepime,718
+nalidixic acid,656
+tobramycin,642
+amoxicillin,636
+cefoxitin,631
+aztreonam,612
+tetracycline,589
+chloramphenicol,554
+trimethoprim,465
+ceftriaxone,409
+streptomycin,402
+ertapenem,376
+levofloxacin,354
+cefazolin,334
+ampicillin/sulbactam,316
+doxycycline,305
+minocycline,248
+nitrofurantoin,246
+sulfisoxazole,228
+azithromycin,215
+polymyxin b,209
+cefotaxime/clavulanic acid,205
+kanamycin,192
+ceftazidime/clavulanic acid,186
+amoxycillin_clavulanic_acid,172
+colistin,172
+polymyxin_e,171
+cephalothin,164
+norfloxacin,142
+cefalotin,142
+sulfamethoxazole,129
+doripenem,78
+erythromycin,65
+ceftiofur,64
+cefpodoxime,60
+cefpodoxime_clavulanic_acid,59
+ceftazidime/avibactam,57
+fosfomycin,52
+cefotetan,44
+sulfamethoxazole/trimethoprim,42
+lincomycin,36
+oxytetracycline,34
+penicillin,26
+carbenicillin,26
+rifampin,25
+moxifloxacin,19
+apramycin,16
+temocillin,11
+tigecyline,11
+piperacillin,9
+ofloxacin,8
+naladixic_acid,7
+ticarcillin/clavulanic acid,6
+beta-lactam,3
+teicoplanin,1
+neomycin,1
+sulbactam,1
+clindamycin,1
+daptomycin,1
+linezolid,1
+vancomycin,1
+ceftolozane/tazobactam,1
+cefalexin,1

@@ -1,0 +1,22 @@
+Column,Missing_Values,Missing_Percentage
+Taxon ID,0,0
+Genome ID,0,0
+Genome Name,0,0
+Antibiotic,0,0
+Resistant Phenotype,1230328,50.97
+Measurement,1174897,48.67
+Measurement Sign,2381882,98.68
+Measurement Value,1174894,48.67
+Measurement Unit,1174894,48.67
+Laboratory Typing Method,2323250,96.25
+Laboratory Typing Method Version,2413576,99.99
+Laboratory Typing Platform,2399582,99.41
+Vendor,1256736,52.06
+Testing Standard,2353983,97.52
+Testing Standard Year,2370973,98.22
+Computational Method,91674,3.8
+Computational Method Version,91674,3.8
+Computational Method Performance,91674,3.8
+Evidence,997,0.04
+Source,2413172,99.97
+PubMed,2336409,96.79
