@@ -711,6 +711,12 @@ The use of 95% confidence intervals helps describe uncertainty, while Chi-square
 
 Overall, the project demonstrates how statistical methods and data visualization can support the exploration and understanding of antimicrobial resistance data in bioinformatics.
 
+I performed statistical analysis using resistance percentages, Chi-square testing, Cramer's V, and 95% confidence intervals.
+
+I also created eight graphs to explain my results.
+
+My results show that most laboratory records are Susceptible, but some antibiotics show high resistance percentages.
+
 ---
 
 ## 16. Viva Presentation Summary
